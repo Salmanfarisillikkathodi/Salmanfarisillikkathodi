@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Salmanfarisillikkathodi
 - 👀 I’m interested in Power Electronics, Embedded System, AI & Robotics
+- Third year proud Cetian in Major Electrical and Electronics department Engineering.
 - 📫 salmanfarisillikkathodi@gmail.com 
 
 <!---
